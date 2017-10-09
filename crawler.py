@@ -3,10 +3,10 @@ from tweepy import OAuthHandler
 import json
 
 #informacoes de autenticacao
-consumer_key = '7lwZXig2oVGkAMncLjGuGKcx1'
-consumer_secret = 'DhK5yjrUy8yAncaiMT2KjqMBdWd8hIJ6OMBgsgyBPc71ElyJXO'
-access_token = '917082052306096128-S3PaxP37XCPASLLa8G3MdGl9BchEisu'
-access_secret = '8SyLjbMhhI5MCrDyYgdPA0RtV7HpNP3ZvyvHNzscMsk7s'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 def get_tweets(user):
 	contador = 0
